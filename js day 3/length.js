@@ -1,37 +1,37 @@
-// leangth
+leangth
 
-// let fruits =  ["Apple", "Banana", "Mengo"] ;
+let fruits =  ["Apple", "Banana", "Mengo"] ;
 
-// console.log (fruits.length);
+console.log (fruits.length);
 
 // output = 3
 
 
-// ==============================================
+==============================================
 
 
-// let number = [10,20,30,40,50];
+let number = [10,20,30,40,50];
 
-// console.log (number.length);
+console.log (number.length);
 
 
 // output = 5 
 
 
-// =================================================
+=================================================
 
 
-// let student = [] ;
+let student = [] ;
 
-// console.log(nams.length);
+console.log(nams.length);
 
 // output = undefine
 
-// =========== LIst item =================
+=========== LIst item =================
 
-// let fruits = ["Cow", "Dog", "sheep"];
+let fruits = ["Cow", "Dog", "sheep"];
 
-// console.log(fruits[fruits.length - 3]);
+console.log(fruits[fruits.length - 3]);
 
 // output= sheep
 
@@ -44,3 +44,5 @@ for (let i = 0; i < fruits.length; i++) {
     console.log(fruits[i]);
     
 }
+
+// output = chittagong, sylet, coxs bazar
