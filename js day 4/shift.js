@@ -1,29 +1,29 @@
-// const fruits = ["Apple", "banana", "mango"];
+const fruits = ["Apple", "banana", "mango"];
 
-// fruits.shift();
+fruits.shift();
 
-// console.log(fruits);
+console.log(fruits);
 
 // output = ['banana', 'mango']
 
 // ==================================================
 
-// const numbers = [10, 20, 30, 40];
+const numbers = [10, 20, 30, 40];
 
-// numbers.shift();
+numbers.shift();
 
-// console.log(numbers);
+console.log(numbers);
 
 // output = [20, 30, 40]
 
 // ===================================================
 
-// const fruits = ["Apple", "Banana", "Mango"];
+const fruits = ["Apple", "Banana", "Mango"];
 
-// const removed = fruits.shift();
+const removed = fruits.shift();
 
-// console.log(removed);
-// console.log(fruits);
+console.log(removed);
+console.log(fruits);
 
 // output =  Apple
 //      ['Banana', 'Mango'] 
