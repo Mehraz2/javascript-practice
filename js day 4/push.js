@@ -1,8 +1,8 @@
-// let fruits = ["Mango", "Apple"];
+let fruits = ["Mango", "Apple"];
 
-// fruits.push ("cow");
+fruits.push ("cow");
 
-// console.log(fruits);
+console.log(fruits);
 
 
 // // output =  (3) ['Mango', 'Apple', 'cow']
@@ -12,11 +12,11 @@
 
 
 
-// const numbers = [10, 20];
+const numbers = [10, 20];
 
-// numbers.push("30,40,50,60");
+numbers.push("30,40,50,60");
 
-// console.log(numbers);
+console.log(numbers);
 
 
 // // output= 3) [10, 20, '30,40,50,60']
@@ -24,37 +24,37 @@
 
 // // ==============  orginal array=================================
 
-// const fruits = ["apple"];
+const fruits = ["apple"];
 
-// fruits.push("orange");
+fruits.push("orange");
 
-// console.log(fruits);
+console.log(fruits);
 
-// // output =  (2) ['apple', 'orange']
+// output =  (2) ['apple', 'orange']
 
 
 // // =====================================================
 
 // // 1
 
-// const colors = ["Red", "Blue"];
+const colors = ["Red", "Blue"];
 
-// colors.push ("Green");
+colors.push ("Green");
 
-// console.log(colors);
+console.log(colors);
 
-// // output =  (3) ['Red', 'Blue', 'Green']
+// output =  (3) ['Red', 'Blue', 'Green']
 
 
 // // ================================================
 
 // // 2
 
-// const numbers = [5,10];
+const numbers = [5,10];
 
-// numbers.push("15,20,25");
+numbers.push("15,20,25");
 
-// console.log(numbers);
+console.log(numbers);
 
 // // output =  (3) [5, 10, '15,20,25']
 
@@ -63,11 +63,11 @@
 
 // // 3
 
-// const students = [];
+const students = [];
 
-// students.push("Rohit");
+students.push("Rohit");
 
-// console.log(students);
+console.log(students);
 
 // // output =  ['Rohit'];
 
@@ -75,10 +75,10 @@
 
 // // 4
 
-// const fruits = ["apple"];
+const fruits = ["apple"];
 
-// fruits.push();
+fruits.push();
 
-// console.log();
+console.log();
 
 // // output = nothing
