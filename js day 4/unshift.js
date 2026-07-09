@@ -1,51 +1,51 @@
-// // // // // const fruits = ["banana", "mango"];
+const fruits = ["banana", "mango"];
 
-// // // // // fruits.unshift("apple");
+fruits.unshift("apple");
 
-// // // // // console.log(fruits);
+console.log(fruits);
 
 // // // // // output =  (3) ['apple', 'banana', 'mango']
 
 
 // // // // // =================================================
 
-// // // // const numbers = [30,40];
+const numbers = [30,40];
 
-// // // // numbers.unshift(10,20);
+numbers.unshift(10,20);
 
-// // // // console.log(numbers);
+console.log(numbers);
 
 // // // // output =  (4) [10, 20, 30, 40]
 
 // // // // ====================================================
 
-// // // const students = [];
+const students = [];
 
-// // // students.unshift("MEhraz");
+students.unshift("MEhraz");
 
-// // // console.log(students);
+console.log(students);
 
 // // // output =  ['MEhraz']
 
 
 // // // ===================================================
 
-// // const colors = ["Blue"];
+const colors = ["Blue"];
 
-// // colors.unshift("Red");
+colors.unshift("Red");
 
-// // console.log(colors);
+console.log(colors);
 
 // // output =  (2) ['Red', 'Blue']
 
 // // ========= unshift can return ? ===============
 
-// const fruits = ["banana"];
+const fruits = ["banana"];
 
-// const result = fruits.unshift("apple");
+const result = fruits.unshift("apple");
 
-// console.log(result);
-// console.log(fruits);
+console.log(result);
+console.log(fruits);
 
 // // output =  2
 // //       (2) ['apple', 'banana']
