@@ -1,11 +1,11 @@
-// pop element return=============
+pop element return=============
 
-// const fruits = ["Apple", "Banana", "Mango"];
+const fruits = ["Apple", "Banana", "Mango"];
 
-// const removed = fruits.pop();
+const removed = fruits.pop();
 
-// console.log(removed);
-// console.log(fruits);
+console.log(removed);
+console.log(fruits);
 
 
 // output =  Mango
@@ -13,13 +13,13 @@
 
 // ====================================================
 
-// const numbers = [10,20,30,40];
+const numbers = [10,20,30,40];
 
-// const removed = numbers.pop();
+const removed = numbers.pop();
 
-// console.log(removed);
-// console.log(numbers.length);
-// console.log(numbers);
+console.log(removed);
+console.log(numbers.length);
+console.log(numbers);
 
 // output = 40
 //             3
@@ -29,11 +29,11 @@
 
 // // 1
 
-// const colors = ["Red", "Blue", "Green"];
+const colors = ["Red", "Blue", "Green"];
 
-// colors.pop("Green");
+colors.pop("Green");
 
-// console.log(colors);
+console.log(colors);
 
 // output = (2) ['Red', 'Blue']
 
